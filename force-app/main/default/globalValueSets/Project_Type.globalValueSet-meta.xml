@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Project Type</masterLabel>
+    <sorted>true</sorted>
+
+    <customValue>
+        <fullName>Installation Services</fullName>
+        <label>Installation Services</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Maintenance Services</fullName>
+        <label>Maintenance Services</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Repair Services</fullName>
+        <label>Repair Services</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Restoration / Remediation</fullName>
+        <label>Restoration / Remediation</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Construction Services</fullName>
+        <label>Construction Services</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Environmental / Testing</fullName>
+        <label>Environmental / Testing</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>IT / Software Services</fullName>
+        <label>IT / Software Services</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Telecom / Networking</fullName>
+        <label>Telecom / Networking</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Energy / HVAC</fullName>
+        <label>Energy / HVAC</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Professional Services</fullName>
+        <label>Professional Services</label>
+        <default>false</default>
+    </customValue>
+    <customValue>
+        <fullName>Other / Custom</fullName>
+        <label>Other / Custom</label>
+        <default>false</default>
+    </customValue>
+</GlobalValueSet>

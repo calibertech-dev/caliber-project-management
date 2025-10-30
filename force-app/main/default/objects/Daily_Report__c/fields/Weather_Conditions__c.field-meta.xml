@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Weather_Conditions__c</fullName>
+    <label>Weather Conditions</label>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Sunny</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Overcast</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Raining</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Foggy</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Snowing</fullName>
+                <default>false</default>
+            </value>
+            <value>
+                <fullName>Mixed</fullName>
+                <default>false</default>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

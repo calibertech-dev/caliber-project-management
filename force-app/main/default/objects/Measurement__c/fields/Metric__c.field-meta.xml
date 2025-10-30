@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>Metric__c</fullName>
+  <label>Metric</label>
+  <required>false</required>
+  <type>Picklist</type>
+  <trackHistory>true</trackHistory>
+  <valueSet>
+    <valueSetDefinition>
+      <sorted>true</sorted>
+
+      <!-- Environmental / Site Conditions -->
+      <value><fullName>Environmental - Ambient Temperature</fullName><default>false</default><label>Environmental - Ambient Temperature</label></value>
+      <value><fullName>Environmental - Relative Humidity</fullName><default>false</default><label>Environmental - Relative Humidity</label></value>
+      <value><fullName>Environmental - Moisture Content (Surface)</fullName><default>false</default><label>Environmental - Moisture Content (Surface)</label></value>
+      <value><fullName>Environmental - Moisture Content (Material)</fullName><default>false</default><label>Environmental - Moisture Content (Material)</label></value>
+      <value><fullName>Environmental - Dew Point Temperature</fullName><default>false</default><label>Environmental - Dew Point Temperature</label></value>
+      <value><fullName>Environmental - Air Velocity</fullName><default>false</default><label>Environmental - Air Velocity</label></value>
+      <value><fullName>Environmental - Air Pressure Differential</fullName><default>false</default><label>Environmental - Air Pressure Differential</label></value>
+      <value><fullName>Environmental - Light Level</fullName><default>false</default><label>Environmental - Light Level</label></value>
+      <value><fullName>Environmental - Noise Level</fullName><default>false</default><label>Environmental - Noise Level</label></value>
+      <value><fullName>Environmental - Gas/VOC Concentration</fullName><default>false</default><label>Environmental - Gas/VOC Concentration</label></value>
+      <value><fullName>Environmental - Particulate Concentration</fullName><default>false</default><label>Environmental - Particulate Concentration</label></value>
+
+      <!-- Mechanical / Electrical / Industrial -->
+      <value><fullName>Electrical - Voltage</fullName><default>false</default><label>Electrical - Voltage</label></value>
+      <value><fullName>Electrical - Current</fullName><default>false</default><label>Electrical - Current</label></value>
+      <value><fullName>Electrical - Power</fullName><default>false</default><label>Electrical - Power</label></value>
+      <value><fullName>Electrical - Resistance</fullName><default>false</default><label>Electrical - Resistance</label></value>
+      <value><fullName>Mechanical - Fluid Pressure</fullName><default>false</default><label>Mechanical - Fluid Pressure</label></value>
+      <value><fullName>Mechanical - Flow Rate</fullName><default>false</default><label>Mechanical - Flow Rate</label></value>
+      <value><fullName>Mechanical - Fluid Temperature</fullName><default>false</default><label>Mechanical - Fluid Temperature</label></value>
+      <value><fullName>Mechanical - Rotation Speed</fullName><default>false</default><label>Mechanical - Rotation Speed</label></value>
+
+      <!-- Dimensional / Spatial -->
+      <value><fullName>Dimensional - Distance</fullName><default>false</default><label>Dimensional - Distance</label></value>
+      <value><fullName>Dimensional - Area</fullName><default>false</default><label>Dimensional - Area</label></value>
+      <value><fullName>Dimensional - Volume</fullName><default>false</default><label>Dimensional - Volume</label></value>
+      <value><fullName>Dimensional - Angle / Slope</fullName><default>false</default><label>Dimensional - Angle / Slope</label></value>
+      <value><fullName>Dimensional - Elevation / Level Deviation</fullName><default>false</default><label>Dimensional - Elevation / Level Deviation</label></value>
+
+      <!-- Process / Performance -->
+      <value><fullName>Process - Elapsed Time</fullName><default>false</default><label>Process - Elapsed Time</label></value>
+      <value><fullName>Process - Production Rate</fullName><default>false</default><label>Process - Production Rate</label></value>
+      <value><fullName>Process - Quantity Completed</fullName><default>false</default><label>Process - Quantity Completed</label></value>
+      <value><fullName>Process - Pressure Drop</fullName><default>false</default><label>Process - Pressure Drop</label></value>
+
+      <!-- Safety / Environmental Monitoring -->
+      <value><fullName>Safety - CO Concentration</fullName><default>false</default><label>Safety - CO Concentration</label></value>
+      <value><fullName>Safety - CO2 Concentration</fullName><default>false</default><label>Safety - CO2 Concentration</label></value>
+      <value><fullName>Safety - Oxygen Level</fullName><default>false</default><label>Safety - Oxygen Level</label></value>
+      <value><fullName>Safety - pH</fullName><default>false</default><label>Safety - pH</label></value>
+      <value><fullName>Safety - Radiation Level</fullName><default>false</default><label>Safety - Radiation Level</label></value>
+
+      <!-- Generic / Inspection -->
+      <value><fullName>Inspection - Pass/Fail Result</fullName><default>false</default><label>Inspection - Pass/Fail Result</label></value>
+      <value><fullName>Inspection - Rating / Score</fullName><default>false</default><label>Inspection - Rating / Score</label></value>
+      <value><fullName>Generic - Value</fullName><default>true</default><label>Generic - Value</label></value>
+    </valueSetDefinition>
+  </valueSet>
+</CustomField>
