@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Role__c</fullName>
+    <label>Role</label>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>true</sorted>
+            <!-- Account values -->
+            <value><fullName>Primary Contact</fullName><default>true</default><label>Primary Contact</label></value>
+            <value><fullName>Authorized Signer</fullName><default>false</default><label>Authorized Signer</label></value>
+            <value><fullName>Contact</fullName><default>false</default><label>Contact</label></value>
+            <value><fullName>Emergency Contact</fullName><default>false</default><label>Emergency Contact</label></value>
+            <value><fullName>Accounts Payable</fullName><default>false</default><label>Accounts Payable</label></value>
+            <value><fullName>Accounts Receivable</fullName><default>false</default><label>Accounts Receivable</label></value>
+            <!-- Project roles -->
+            <value><fullName>Site Contact</fullName><default>false</default><label>Site Contact</label></value>
+            <value><fullName>Project Sponsor</fullName><default>false</default><label>Client Project Sponsor</label></value>
+            <value><fullName>Project Manager</fullName><default>false</default><label>Client Project Manager</label></value>
+            <value><fullName>Stakeholder</fullName><default>false</default><label>Client Stakeholder</label></value>
+            <value><fullName>Technical Contact</fullName><default>false</default><label>Client Technical Contact</label></value>
+            <value><fullName>Finance Contact</fullName><default>false</default><label>Client Finance Contact</label></value>
+            <value><fullName>End User</fullName><default>false</default><label>Client End User</label></value>
+            <value><fullName>Property Owner</fullName><default>false</default><label>Client Product Owner</label></value>
+            <value><fullName>QA Contact</fullName><default>false</default><label>Client QA Contact</label></value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
