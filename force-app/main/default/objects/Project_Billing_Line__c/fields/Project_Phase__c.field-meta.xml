@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>Project_Phase__c</fullName>
+  <label>Project Phase</label>
+  <type>Lookup</type>
+  <referenceTo>Project_Phase__c</referenceTo>
+  <relationshipName>Project_Phase_Project_Billing_Line</relationshipName>
+  <relationshipLabel>Invoice Lines</relationshipLabel>
+  <trackHistory>true</trackHistory>
+</CustomField>

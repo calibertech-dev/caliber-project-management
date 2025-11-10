@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Phase_Number__c</fullName>
+    <label>Phase Number</label>
+    <precision>2</precision>
+    <scale>0</scale>
+    <required>false</required>
+    <trackHistory>true</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+    <description>Project Phase which this Line should be added to (1, 2, 3...)</description>
+</CustomField>
