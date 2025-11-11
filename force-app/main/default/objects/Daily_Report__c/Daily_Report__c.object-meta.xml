@@ -8,7 +8,7 @@
   </nameField>
   <deploymentStatus>Deployed</deploymentStatus>
   <sharingModel>ControlledByParent</sharingModel>
-  <enableActivities>false</enableActivities>
+  <enableActivities>true</enableActivities>
   <enableReports>true</enableReports>
   <enableSearch>true</enableSearch>
   <enableHistory>true</enableHistory>

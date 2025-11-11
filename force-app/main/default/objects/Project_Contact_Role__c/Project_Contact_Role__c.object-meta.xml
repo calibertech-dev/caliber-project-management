@@ -6,7 +6,6 @@
     <nameField>
         <label>Name</label>
         <type>Text</type>
-        <displayFormat/>
     </nameField>
     <deploymentStatus>Deployed</deploymentStatus>
     <description>Custom object to link Contacts with a role for a specific Project</description>
