@@ -5,7 +5,7 @@
     <label>Site Observation</label>
     <referenceTo>Site_Observation__c</referenceTo>
     <relationshipLabel>Measurements</relationshipLabel>
-    <relationshipName>Measurement_Site_Observations</relationshipName>
+    <relationshipName>Site_Observation_Measurements</relationshipName>
     <required>false</required>
     <trackHistory>true</trackHistory>
     <trackTrending>false</trackTrending>

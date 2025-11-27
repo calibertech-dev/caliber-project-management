@@ -11,7 +11,7 @@
     <description>Custom object to link Contacts with a role for a specific Project</description>
     <enableActivities>false</enableActivities>
     <enableDivisions>false</enableDivisions>
-    <enableHistory>false</enableHistory>
+    <enableHistory>true</enableHistory>
     <enableReports>true</enableReports>
     <household>false</household>
     <sharingModel>ReadWrite</sharingModel>

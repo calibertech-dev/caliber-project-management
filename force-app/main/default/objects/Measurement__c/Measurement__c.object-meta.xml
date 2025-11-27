@@ -8,5 +8,5 @@
   <enableActivities>false</enableActivities>
   <enableReports>true</enableReports>
   <enableSearch>true</enableSearch>
-  <trackHistory>true</trackHistory>
+  <enableHistory>true</enableHistory>
 </CustomObject>

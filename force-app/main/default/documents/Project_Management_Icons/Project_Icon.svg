@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="project-management" transform="matrix(1.043684,0,0,1.043684,-2.17643,-2.180309)">
+        <g transform="matrix(0.278563,0,0,0.278563,49.82238,49.91119)">
+            <g id="project-management1" serif:id="project-management">
+                <g transform="matrix(1,0,0,1,-108.333333,-108.333333)">
+                    <g transform="matrix(0.416667,0,0,0.416667,0,0)">
+                        <path d="M452,23L68,23C41.871,23.528 20.528,44.871 20,71L20,119C20,128 27,135 36,135L484,135C493,135 500,128 500,119L500,71C500,45 478,23 452,23ZM466,175L55,175C46,175 39,182 39,191L39,455C39,481 61,503 87,503L435,503C461,503 483,481 483,455L483,191C482,182 475,175 466,175ZM328,255L192,255C181,255 172,246 172,235C172,224 181,215 192,215L328,215C338.972,215 348,224.028 348,235C348,245.972 338.972,255 328,255Z" style="fill:white;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

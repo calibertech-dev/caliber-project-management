@@ -3,10 +3,11 @@
     <fullName>Project__c</fullName>
     <externalId>false</externalId>
     <label>Project</label>
-    <referenceTo>Project</referenceTo>
+    <referenceTo>Project__c</referenceTo>
     <relationshipLabel>Contact Roles</relationshipLabel>
     <relationshipName>Project_Project_Contact_Roles</relationshipName>
-    <required>true</required>
+    <required>false</required>
     <trackHistory>true</trackHistory>
     <type>Lookup</type>
+    <deleteConstraint>SetNull</deleteConstraint>
 </CustomField>
